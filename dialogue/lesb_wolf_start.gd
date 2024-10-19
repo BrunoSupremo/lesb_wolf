@@ -8,5 +8,5 @@ func _init().("lesb_wolf_start"):
 	talk("", "Mostly bills...")
 	talk("Queen", "This one is from Layla?", "Surprise")
 	talk("", "Dear Queen, I need your help. Come see me.")
-	talk("Queen", "Maybe it is important. I should go", "Neutral")
+	talk("Queen", "Maybe it is important. I should go.", "Neutral")
 	completeQuest("lesb_wolf_start")
