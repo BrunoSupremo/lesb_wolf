@@ -10,7 +10,7 @@ func _init().("lesb_wolf_shopping"):
 	talk("Cassie", "Hey cutie!", "Neutral")
 	talk("Cassie", "Looking for something new?", "Neutral")
 	talk("Suki", "Do you have toys here?", "Neutral")
-	talk("Cassie", "What you think? Right behind the second curtain.", "Neutral")
+	talk("Cassie", "What do you think? Right behind the second curtain.", "Neutral")
 	talk("", "Suki picks one she likes.")
 	talk("Suki", "Thanks! You can put it on Queen's tab.", "Happy")
 
