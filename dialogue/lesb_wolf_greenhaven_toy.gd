@@ -8,11 +8,13 @@ func _init().("lesb_wolf_greenhaven_toy"):
 	talk("Suki", "Hey! I'm back.", "Seduce")
 	show("Layla", "right")
 	talk("Suki", "Who is ready for some fucking?", "Happy", true)
+	equipOutfit("Suki", "lesb_wolf_strap")
 	setNaked("Layla", true)
 	talk("Layla", "Me!", "Happy", true)
 
 	fade()
 	showImage("res://assets/images/QuestImages/suki_help.png")
+	changeVariant("Suki", "Cum")
 
 	# randomize()
 	# var lesb_wolf_wolfs = ["Greeble", "Kevin", "Milo", "Wilbur"]

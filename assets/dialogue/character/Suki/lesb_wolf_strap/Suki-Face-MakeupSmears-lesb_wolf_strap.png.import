@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Suki-Face-MakeupSmears-lesb_wolf_strap.png-acabb54638195c31335ca8d82fd670e9.res"
+group_file="res://assets/dialogue/Atlases/Suki-lesb_wolf_strap.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Suki/lesb_wolf_strap/Suki-Face-MakeupSmears-lesb_wolf_strap.png"
+dest_files=[ "res://.import/Suki-Face-MakeupSmears-lesb_wolf_strap.png-acabb54638195c31335ca8d82fd670e9.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Suki-lesb_wolf_strap.png"
+import_mode=0
+crop_to_region=false

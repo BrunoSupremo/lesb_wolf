@@ -15,6 +15,8 @@ func _init().("lesb_wolf_back_home"):
 	talk("Suki", "... Shopping time! Bye.", "Neutral")
 	hide("Suki")
 	talk("Queen", "Suki, don't go around wasting my money...", "Neutral")
+	hide("Queen")
+	show("Queen", "left")
 	talk("Queen", "Suki?", "Sad")
 	talk("Queen", "She is gone...", "Surprise")
 

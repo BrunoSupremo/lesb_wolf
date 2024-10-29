@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Suki-Face-Seduce-lesb_wolf_strap.png-30a422d6305bad1d1914df8668c7932a.res"
+group_file="res://assets/dialogue/Atlases/Suki-lesb_wolf_strap.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Suki/lesb_wolf_strap/Suki-Face-Seduce-lesb_wolf_strap.png"
+dest_files=[ "res://.import/Suki-Face-Seduce-lesb_wolf_strap.png-30a422d6305bad1d1914df8668c7932a.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Suki-lesb_wolf_strap.png"
+import_mode=0
+crop_to_region=false

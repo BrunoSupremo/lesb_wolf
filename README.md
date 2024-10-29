@@ -1,7 +1,13 @@
-# Queen's Brothel Mod Template Project
+A Queen's Brothel mod 🔞
 
-Use this template to start creating your own mod for Queen's Brothel!
+Layla from Greenhaven is asking for some help.
 
-If you need help getting started, check out the documentation!
+
+
+(This is a work in progress mod)
+
+Writer: https://x.com/HornyHornball69
+
+Art: https://tripledexrated.carrd.co/
 
 [Documentation](https://docs.queensbrothel.com/)

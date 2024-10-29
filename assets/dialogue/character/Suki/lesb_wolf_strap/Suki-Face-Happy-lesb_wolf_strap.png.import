@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Suki-Face-Happy-lesb_wolf_strap.png-7e1aed1207f05f814ecacb4271b182cd.res"
+group_file="res://assets/dialogue/Atlases/Suki-lesb_wolf_strap.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Suki/lesb_wolf_strap/Suki-Face-Happy-lesb_wolf_strap.png"
+dest_files=[ "res://.import/Suki-Face-Happy-lesb_wolf_strap.png-7e1aed1207f05f814ecacb4271b182cd.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Suki-lesb_wolf_strap.png"
+import_mode=0
+crop_to_region=false

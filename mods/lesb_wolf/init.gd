@@ -16,10 +16,10 @@ func _ready():
 	QB.quest.addQuest(load("res://quests/lesb_wolf_greenhaven_toy.gd").new())
 
 	# Add an image to the gallery
-	QB.image.addImage("res://assets/images/QuestImages/suki_help.png", "lesb_wolf_greenhaven")
+	QB.image.addImage("res://assets/images/QuestImages/suki_help.png", "lesb_wolf_greenhaven_toy")
 
 	# Add our outfit for Queen into the game.
-	#QB.character.getCharacter("Queen").addOutfit("MyModOutfit", "My Mod Outfit", "A lovely and totally safe-for-work outfit.", false, "newGame", 100)
+	QB.character.getCharacter("Suki").addOutfit("lesb_wolf_strap", "Strap-on", "A lovely and totally safe-for-work outfit.")
 
 	# Add a new character into the game.
 	#QB.character.addCharacter("res://characters/MyCharacter.gd")

@@ -9,3 +9,5 @@ func _init():
 	mapKey = "TownClothesShop"
 	location = "Easthollow"
 	parent = "lesb_wolf_back_home"
+	addRemoveGoldReward(50)
+	addOutfitReward("Suki", "lesb_wolf_strap")

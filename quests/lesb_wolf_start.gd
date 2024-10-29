@@ -8,4 +8,4 @@ func _init():
 	description = "What a day. Let's rest."
 	mapKey = "House"
 	location = "Easthollow"
-	parent = "newGame"
+	parent = "trasoniaRecruitNatasha"

@@ -2,7 +2,7 @@ extends Dialogue
 
 func _init().("lesb_wolf_start"):
 	fade()
-	#setBackground("res://assets/Maps/Town/TownBackground.png")
+	setBackground("res://assets/Maps/EasthollowBackground6.png")
 	show("Queen", "left")
 	talk("Queen", "New mail...", "Unimpressed")
 	talk("", "Mostly bills...")
