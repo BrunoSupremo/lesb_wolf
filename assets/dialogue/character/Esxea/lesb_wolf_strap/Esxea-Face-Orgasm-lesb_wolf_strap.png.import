@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Esxea-Face-Orgasm-lesb_wolf_strap.png-5f5aff0454a2d600ae5d37bc31667df4.res"
+group_file="res://assets/dialogue/Atlases/Esxea-lesb_wolf_strap.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Esxea/lesb_wolf_strap/Esxea-Face-Orgasm-lesb_wolf_strap.png"
+dest_files=[ "res://.import/Esxea-Face-Orgasm-lesb_wolf_strap.png-5f5aff0454a2d600ae5d37bc31667df4.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Esxea-lesb_wolf_strap.png"
+import_mode=0
+crop_to_region=false

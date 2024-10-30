@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Esxea-Face-Unimpressed-lesb_wolf_strap.png-aa33f2e3e8bad577f28a73bd2a015c8b.res"
+group_file="res://assets/dialogue/Atlases/Esxea-lesb_wolf_strap.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Esxea/lesb_wolf_strap/Esxea-Face-Unimpressed-lesb_wolf_strap.png"
+dest_files=[ "res://.import/Esxea-Face-Unimpressed-lesb_wolf_strap.png-aa33f2e3e8bad577f28a73bd2a015c8b.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Esxea-lesb_wolf_strap.png"
+import_mode=0
+crop_to_region=false

@@ -9,3 +9,4 @@ func _init():
 	mapKey = "VillageHangout"
 	location = "Greenhaven"
 	parent = "lesb_wolf_shopping"
+	addOutfitReward("Esxea", "lesb_wolf_strap")

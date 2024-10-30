@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Esxea-Dick-lesb_wolf_strap.png-9cf46b2ae21fbcda17d4a0fc1385a83c.res"
+group_file="res://assets/dialogue/Atlases/Esxea-lesb_wolf_strap.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Esxea/lesb_wolf_strap/Esxea-Dick-lesb_wolf_strap.png"
+dest_files=[ "res://.import/Esxea-Dick-lesb_wolf_strap.png-9cf46b2ae21fbcda17d4a0fc1385a83c.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Esxea-lesb_wolf_strap.png"
+import_mode=0
+crop_to_region=false

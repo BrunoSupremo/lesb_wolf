@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Esxea-HairBangs-lesb_wolf_strap.png-ad6a723c57a76f1887056dd4d710b26d.res"
+group_file="res://assets/dialogue/Atlases/Esxea-lesb_wolf_strap.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Esxea/lesb_wolf_strap/Esxea-HairBangs-lesb_wolf_strap.png"
+dest_files=[ "res://.import/Esxea-HairBangs-lesb_wolf_strap.png-ad6a723c57a76f1887056dd4d710b26d.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Esxea-lesb_wolf_strap.png"
+import_mode=0
+crop_to_region=false

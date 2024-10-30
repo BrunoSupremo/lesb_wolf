@@ -20,6 +20,7 @@ func _ready():
 
 	# Add our outfit for Queen into the game.
 	QB.character.getCharacter("Suki").addOutfit("lesb_wolf_strap", "Strap-on", "A lovely and totally safe-for-work outfit.")
+	QB.character.getCharacter("Esxea").addOutfit("lesb_wolf_strap", "Strap-on", "A lovely and totally safe-for-work outfit.")
 
 	# Add a new character into the game.
 	#QB.character.addCharacter("res://characters/MyCharacter.gd")

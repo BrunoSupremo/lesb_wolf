@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Esxea-Clothes-lesb_wolf_strap.png-4442491fc9e811d6df09a8ab2f03425d.res"
+group_file="res://assets/dialogue/Atlases/Esxea-lesb_wolf_strap.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Esxea/lesb_wolf_strap/Esxea-Clothes-lesb_wolf_strap.png"
+dest_files=[ "res://.import/Esxea-Clothes-lesb_wolf_strap.png-4442491fc9e811d6df09a8ab2f03425d.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Esxea-lesb_wolf_strap.png"
+import_mode=0
+crop_to_region=false
