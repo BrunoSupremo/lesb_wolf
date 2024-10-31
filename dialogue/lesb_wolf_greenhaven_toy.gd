@@ -23,7 +23,8 @@ func _init().("lesb_wolf_greenhaven_toy"):
 	fade()
 	randomize()
 	var lesb_wolf_wolfs = ["Greeble", "Kevin", "Milo", "Wilbur"]
-	var lesb_wolf_picked = lesb_wolf_wolfs[randi()%lesb_wolf_wolfs.size()]
+	lesb_wolf_wolfs.shuffle()
+	var lesb_wolf_picked = lesb_wolf_wolfs[0]
 	changeVariant(lesb_wolf_picked, "Topless")
 	clearCum("Suki")
 	show("Suki", "left", "Surprise")
@@ -38,8 +39,10 @@ func _init().("lesb_wolf_greenhaven_toy"):
 	talk("", 'She "undresses" and throws the strap-on to the side')
 	talk(lesb_wolf_picked, "Can my friends join too?", "Happy")
 	talk("Suki", "Sure.", "Happy", true)
+	fade()
 
-	# [Combat sequence with suki only and three waves]
+	battle("res://battles/lesb_wolf_wolfs.gd")
+	ifResult("", "")
 	# ??? Potentially add picture of suki looking defeated from hot sex???
 
 	fade()

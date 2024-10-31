@@ -7,7 +7,7 @@ func _init():
 	name = "Shopping"
 	description = "Visit the shop in town"
 	mapKey = "TownClothesShop"
-	location = "Easthollow"
+	location = "Easthollow Town"
 	parent = "lesb_wolf_back_home"
 	addRemoveGoldReward(50)
 	addOutfitReward("Suki", "lesb_wolf_strap")
