@@ -18,7 +18,7 @@ func _init().("lesb_wolf_greenhaven_toy"):
 	cumOn("Suki", "face", 1)
 	cumOn("Layla", "hips", 1)
 
-	message("Congratulations!", "Another happy day fucking!")
+	# message("Congratulations!", "Another happy day fucking!")
 
 	fade()
 	randomize()
@@ -53,7 +53,7 @@ func _init().("lesb_wolf_greenhaven_toy"):
 	talk("Esxea", "...", "Neutral")
 	talk("Esxea", "Uhm... Something happened here.", "Angry")
 	talk("Esxea", "What is this?", "Surprise")
-	talk("", "She picks the strap-on that was left in the floor.")
+	talk("", "She picks up the strap-on left on the floor")
 	talk("Esxea", "Is this a strap-on?", "Neutral")
 	talk("Esxea", "...", "Neutral")
 	equipOutfit("Esxea", "lesb_wolf_strap")
@@ -61,6 +61,35 @@ func _init().("lesb_wolf_greenhaven_toy"):
 	talk("Esxea", "No.", "Angry")
 	talk("Esxea", "It must be some kind of head accessory, like a unicorn horn.", "Happy")
 	talk("Esxea", "Yes. Case closed.", "Seduce")
+
+	message("Congratulations?", "Esxea, she did something...")
+
+	fade()
+	show("Esxea", "left", "Neutral")
+	talk("", "As Esxea begun to walk away... She gets interrupted.")
+	show("Layla", "right")
+	talk("Layla", "Hey, wait!", "Surprise")
+	talk("", "Layla runs over.")
+	talk("Layla", "I still want to use that!", "Happy")
+	talk("Esxea", "But... this is my unicorn horn.", "Surprise")
+	talk("Layla", "What? That's used for fucking, not as a hat.", "Angry")
+	talk("", "The gears in Exsea's head turn... slowly.")
+	talk("Esxea", "Why can't it be both?", "Sad")
+	talk("Layla", "...", "Unimpressed")
+	talk("Layla", "Hey, you know what? You can keep the horn, under one condition.", "Neutral")
+	talk("Esxea", "What's that?", "Unimpressed")
+	show("Esxea", "left", "Surprise")
+	talk("Layla", "You let me fuck you.", "Neutral")
+	talk("Layla", "I've always wanted to try being on top, plus my pussy is tired from earlier.", "Happy")
+	talk("Esxea", "That's it? Deal!", "Happy")
+	fade()
+
+	battle("res://battles/lesb_wolf_esxea_vs_layla.gd")
+	ifResult("", "")
+
+	fade()
+	hideAll()
+	# [Future addition(?): Layla holding Exsea in a full nelson, fucking her
 
 	message("Congratulations?", "Esxea saves the day, once again!")
 
