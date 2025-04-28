@@ -17,6 +17,7 @@ func _ready():
 
 	# Add an image to the gallery
 	QB.image.addImage("res://assets/images/QuestImages/suki_help.png", "lesb_wolf_greenhaven_toy")
+	QB.image.addImage("res://assets/images/QuestImages/esxea_end.png", "lesb_wolf_greenhaven_toy")
 
 	# Add our outfit for Queen into the game.
 	QB.character.getCharacter("Suki").addOutfit("lesb_wolf_strap", "Strap-on", "A lovely and totally safe-for-work outfit.")

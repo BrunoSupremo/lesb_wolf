@@ -87,9 +87,8 @@ func _init().("lesb_wolf_greenhaven_toy"):
 	battle("res://battles/lesb_wolf_esxea_vs_layla.gd")
 	ifResult("", "")
 
-	fade()
+	showImage("res://assets/images/QuestImages/esxea_end.png")
 	hideAll()
-	# [Future addition(?): Layla holding Exsea in a full nelson, fucking her
 
 	message("Congratulations?", "Esxea saves the day, once again!")
 
